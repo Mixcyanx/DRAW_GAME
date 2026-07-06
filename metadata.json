@@ -1,0 +1,10 @@
+{
+  "name": "手勢繪圖遊戲",
+  "description": "使用視訊鏡頭與手勢控制的繪圖遊戲：食指畫畫、拳頭當橡皮擦、張開手停止繪製。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
